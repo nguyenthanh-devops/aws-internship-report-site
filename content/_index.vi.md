@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 17/04/2026 đến ngày 10/07/2026
 
-<img src="images/avatar.JPG" alt="Your profile picture" style="width: 200px; border-radius: 10px; margin-top: 10px;">
+<img src="images/avatar.jpg" alt="Your profile picture" style="width: 200px; border-radius: 10px; margin-top: 10px;">
 
 
 
